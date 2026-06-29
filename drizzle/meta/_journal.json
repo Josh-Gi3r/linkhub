@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1772782373048,
+      "tag": "0000_breezy_warstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1772782477399,
+      "tag": "0001_known_viper",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1772944768549,
+      "tag": "0002_redundant_rocket_racer",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1776585984556,
+      "tag": "0003_motionless_the_fallen",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1776628180504,
+      "tag": "0004_smooth_red_shift",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1776659444164,
+      "tag": "0005_cheerful_lord_hawal",
+      "breakpoints": true
+    }
+  ]
+}
